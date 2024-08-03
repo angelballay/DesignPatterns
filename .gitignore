@@ -1,0 +1,12 @@
+
+.vs/
+
+# Ignorar todas las carpetas obj y bin en cualquier lugar del proyecto
+**/obj/
+**/bin/
+
+# Ignorar archivos específicos en las carpetas obj de cada proyecto
+**/obj/Debug/net8.0/*.AssemblyInfoInputs.cache
+**/obj/Debug/net8.0/*.assets.cache
+**/obj/Debug/net8.0/*.GeneratedMSBuildEditorConfig.editorconfig
+**/obj/Debug/net8.0/*.AssemblyInfo.cs
