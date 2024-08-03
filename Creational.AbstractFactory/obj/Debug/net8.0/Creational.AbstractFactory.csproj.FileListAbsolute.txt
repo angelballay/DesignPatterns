@@ -1,0 +1,14 @@
+C:\Coder\Patrones de Diseño\PDD\Creational.AbstractFactory\bin\Debug\net8.0\Creational.AbstractFactory.exe
+C:\Coder\Patrones de Diseño\PDD\Creational.AbstractFactory\bin\Debug\net8.0\Creational.AbstractFactory.deps.json
+C:\Coder\Patrones de Diseño\PDD\Creational.AbstractFactory\bin\Debug\net8.0\Creational.AbstractFactory.runtimeconfig.json
+C:\Coder\Patrones de Diseño\PDD\Creational.AbstractFactory\bin\Debug\net8.0\Creational.AbstractFactory.dll
+C:\Coder\Patrones de Diseño\PDD\Creational.AbstractFactory\bin\Debug\net8.0\Creational.AbstractFactory.pdb
+C:\Coder\Patrones de Diseño\PDD\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\Patrones de Diseño\PDD\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.AssemblyInfoInputs.cache
+C:\Coder\Patrones de Diseño\PDD\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.AssemblyInfo.cs
+C:\Coder\Patrones de Diseño\PDD\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Coder\Patrones de Diseño\PDD\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.dll
+C:\Coder\Patrones de Diseño\PDD\Creational.AbstractFactory\obj\Debug\net8.0\refint\Creational.AbstractFactory.dll
+C:\Coder\Patrones de Diseño\PDD\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.pdb
+C:\Coder\Patrones de Diseño\PDD\Creational.AbstractFactory\obj\Debug\net8.0\Creational.AbstractFactory.genruntimeconfig.cache
+C:\Coder\Patrones de Diseño\PDD\Creational.AbstractFactory\obj\Debug\net8.0\ref\Creational.AbstractFactory.dll

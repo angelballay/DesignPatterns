@@ -1,0 +1,17 @@
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\bin\Debug\net8.0\Creational.Builder.Example.exe
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\bin\Debug\net8.0\Creational.Builder.Example.deps.json
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\bin\Debug\net8.0\Creational.Builder.Example.runtimeconfig.json
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\bin\Debug\net8.0\Creational.Builder.Example.dll
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\bin\Debug\net8.0\Creational.Builder.Example.pdb
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\obj\Debug\net8.0\Creational.Builder.Example.csproj.AssemblyReference.cache
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\obj\Debug\net8.0\Creational.Builder.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\obj\Debug\net8.0\Creational.Builder.Example.AssemblyInfoInputs.cache
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\obj\Debug\net8.0\Creational.Builder.Example.AssemblyInfo.cs
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\obj\Debug\net8.0\Creational.Builder.Example.csproj.CoreCompileInputs.cache
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\obj\Debug\net8.0\Creational.Builder.Example.csproj.CopyComplete
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\obj\Debug\net8.0\Creational.Builder.Example.dll
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\obj\Debug\net8.0\refint\Creational.Builder.Example.dll
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\obj\Debug\net8.0\Creational.Builder.Example.pdb
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\obj\Debug\net8.0\Creational.Builder.Example.genruntimeconfig.cache
+C:\Coder\Patrones de Diseño\PDD\Creational.Builder.Example\obj\Debug\net8.0\ref\Creational.Builder.Example.dll

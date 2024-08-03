@@ -1,0 +1,14 @@
+C:\Coder\Patrones de Diseño\PDD\Estructural.Adapter\bin\Debug\net8.0\Estructural.Adapter.exe
+C:\Coder\Patrones de Diseño\PDD\Estructural.Adapter\bin\Debug\net8.0\Estructural.Adapter.deps.json
+C:\Coder\Patrones de Diseño\PDD\Estructural.Adapter\bin\Debug\net8.0\Estructural.Adapter.runtimeconfig.json
+C:\Coder\Patrones de Diseño\PDD\Estructural.Adapter\bin\Debug\net8.0\Estructural.Adapter.dll
+C:\Coder\Patrones de Diseño\PDD\Estructural.Adapter\bin\Debug\net8.0\Estructural.Adapter.pdb
+C:\Coder\Patrones de Diseño\PDD\Estructural.Adapter\obj\Debug\net8.0\Estructural.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\Patrones de Diseño\PDD\Estructural.Adapter\obj\Debug\net8.0\Estructural.Adapter.AssemblyInfoInputs.cache
+C:\Coder\Patrones de Diseño\PDD\Estructural.Adapter\obj\Debug\net8.0\Estructural.Adapter.AssemblyInfo.cs
+C:\Coder\Patrones de Diseño\PDD\Estructural.Adapter\obj\Debug\net8.0\Estructural.Adapter.csproj.CoreCompileInputs.cache
+C:\Coder\Patrones de Diseño\PDD\Estructural.Adapter\obj\Debug\net8.0\Estructural.Adapter.dll
+C:\Coder\Patrones de Diseño\PDD\Estructural.Adapter\obj\Debug\net8.0\refint\Estructural.Adapter.dll
+C:\Coder\Patrones de Diseño\PDD\Estructural.Adapter\obj\Debug\net8.0\Estructural.Adapter.pdb
+C:\Coder\Patrones de Diseño\PDD\Estructural.Adapter\obj\Debug\net8.0\Estructural.Adapter.genruntimeconfig.cache
+C:\Coder\Patrones de Diseño\PDD\Estructural.Adapter\obj\Debug\net8.0\ref\Estructural.Adapter.dll

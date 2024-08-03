@@ -1,0 +1,17 @@
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\bin\Debug\net8.0\Creational.Prototype.exe
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\bin\Debug\net8.0\Creational.Prototype.deps.json
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\bin\Debug\net8.0\Creational.Prototype.runtimeconfig.json
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\bin\Debug\net8.0\Creational.Prototype.dll
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\bin\Debug\net8.0\Creational.Prototype.pdb
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\obj\Debug\net8.0\Creational.Prototype.csproj.AssemblyReference.cache
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\obj\Debug\net8.0\Creational.Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\obj\Debug\net8.0\Creational.Prototype.AssemblyInfoInputs.cache
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\obj\Debug\net8.0\Creational.Prototype.AssemblyInfo.cs
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\obj\Debug\net8.0\Creational.Prototype.csproj.CoreCompileInputs.cache
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\obj\Debug\net8.0\Creational.Prototype.csproj.CopyComplete
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\obj\Debug\net8.0\Creational.Prototype.dll
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\obj\Debug\net8.0\refint\Creational.Prototype.dll
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\obj\Debug\net8.0\Creational.Prototype.pdb
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\obj\Debug\net8.0\Creational.Prototype.genruntimeconfig.cache
+C:\Coder\Patrones de Diseño\PDD\Creative.Prototype\obj\Debug\net8.0\ref\Creational.Prototype.dll

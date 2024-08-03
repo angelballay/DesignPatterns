@@ -1,0 +1,14 @@
+C:\Coder\Patrones de Diseño\PDD\Creational.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\Patrones de Diseño\PDD\Creational.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.AssemblyInfoInputs.cache
+C:\Coder\Patrones de Diseño\PDD\Creational.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.AssemblyInfo.cs
+C:\Coder\Patrones de Diseño\PDD\Creational.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Coder\Patrones de Diseño\PDD\Creational.FactoryMethod\bin\Debug\net8.0\Creational.FactoryMethod.exe
+C:\Coder\Patrones de Diseño\PDD\Creational.FactoryMethod\bin\Debug\net8.0\Creational.FactoryMethod.deps.json
+C:\Coder\Patrones de Diseño\PDD\Creational.FactoryMethod\bin\Debug\net8.0\Creational.FactoryMethod.runtimeconfig.json
+C:\Coder\Patrones de Diseño\PDD\Creational.FactoryMethod\bin\Debug\net8.0\Creational.FactoryMethod.dll
+C:\Coder\Patrones de Diseño\PDD\Creational.FactoryMethod\bin\Debug\net8.0\Creational.FactoryMethod.pdb
+C:\Coder\Patrones de Diseño\PDD\Creational.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.dll
+C:\Coder\Patrones de Diseño\PDD\Creational.FactoryMethod\obj\Debug\net8.0\refint\Creational.FactoryMethod.dll
+C:\Coder\Patrones de Diseño\PDD\Creational.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.pdb
+C:\Coder\Patrones de Diseño\PDD\Creational.FactoryMethod\obj\Debug\net8.0\Creational.FactoryMethod.genruntimeconfig.cache
+C:\Coder\Patrones de Diseño\PDD\Creational.FactoryMethod\obj\Debug\net8.0\ref\Creational.FactoryMethod.dll

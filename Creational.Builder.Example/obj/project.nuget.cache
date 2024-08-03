@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pM0bGbhkFVSXDEVxLHZPNuWsgSeT1aR2hOZMjCSK/fnbLvPXjVm9mr80vnyYry1ZAfKpsEF04JMkkOham9PMIw==",
+  "success": true,
+  "projectFilePath": "C:\\Coder\\Patrones de Diseño\\PDD\\Creational.Builder.Example\\Creational.Builder.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
