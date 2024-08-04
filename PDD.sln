@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Builder", "Creat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Builder.Example", "Creational.Builder.Example\Creational.Builder.Example.csproj", "{6A8A3047-B858-4ED2-8277-82E41D6A9C54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Prototype", "Creative.Prototype\Creational.Prototype.csproj", "{FAEDB60F-328C-41D3-AECB-37ABEC9B1257}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Prototype", "Creative.Prototype\Creational.Prototype.csproj", "{FAEDB60F-328C-41D3-AECB-37ABEC9B1257}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Singleton", "Creational.Singleton\Creational.Singleton.csproj", "{557DB08D-4DF2-4379-BFFB-348BC57BA6D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Singleton", "Creational.Singleton\Creational.Singleton.csproj", "{557DB08D-4DF2-4379-BFFB-348BC57BA6D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructural.Adapter", "Estructural.Adapter\Estructural.Adapter.csproj", "{033E4C85-44B3-4D15-B9D8-4A4C77BAB6B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estructural.Adapter", "Estructural.Adapter\Estructural.Adapter.csproj", "{033E4C85-44B3-4D15-B9D8-4A4C77BAB6B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructural.Bridge", "Estructural.Bridge\Estructural.Bridge.csproj", "{2E06D95C-70D2-40D0-A046-555D36E6C92B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{033E4C85-44B3-4D15-B9D8-4A4C77BAB6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{033E4C85-44B3-4D15-B9D8-4A4C77BAB6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{033E4C85-44B3-4D15-B9D8-4A4C77BAB6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E06D95C-70D2-40D0-A046-555D36E6C92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E06D95C-70D2-40D0-A046-555D36E6C92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E06D95C-70D2-40D0-A046-555D36E6C92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E06D95C-70D2-40D0-A046-555D36E6C92B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
